@@ -1,0 +1,32 @@
+body {
+	background-color: green;
+	color: red;
+	background-image: url("inside_hard_drive.jpg");
+	font-style: italic;
+	font-family: cursive;
+}
+
+h1 {
+	color: blue;
+	text-decoration: underline;
+	font-style: normal;
+	font-size: 40px;
+	background-color: blue;
+}
+
+h2 {
+	background-color: blue;
+}
+
+ol {
+	background-color: blue;
+}
+
+p {
+	background-color: blue;
+}
+
+a {
+	color: black;
+}
+

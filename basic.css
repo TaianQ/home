@@ -1,0 +1,63 @@
+/*To make the links on the page visible, we have coloured them black as programmed below.*/
+a {
+	color: black;
+}
+
+body {
+    background-color: blue; 
+    background-image: url("hardware_background_image.jpg");
+    opacity: 1;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    /*For varied font types*/
+    font-family: serif;
+}
+
+#Top
+	{
+	font-size: 48px;
+	text-decoration: underline;
+}
+/*To put boxes around each element as their common class is hardware*/
+.hardware
+	{
+	background-color: orange;
+}
+
+p {
+	color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+	color: yellow;
+	text-align: center;	
+	font-family: serif;
+} 
+
+h3 {
+	color: red;
+	text-align:center;
+	font-family: serif;
+}
+/*The italicized text shows that the BIOS is almost identical to the ROM in function, but much different in appearance..*/ 
+#bios {
+ 	font-style: italic;
+}
+
+head {
+	font-family: fantasy, "Arial Narrow", cursive;	
+}
+
+img
+{
+	border-color : blue; 
+	padding : 3% ;
+	margin : 3% ;
+}
+
+
